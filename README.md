@@ -11,5 +11,5 @@ Launch a native Pons Family coin while permanently inscribing its media on Robin
 - **Live Board**: Track inscriptions and trending tokens.
 
 ## Token
-- Symbol: `$HOODSTAMPY`
+- Symbol: `$HSTAMPY`
 - Chain: Robinhood Chain
